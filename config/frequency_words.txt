@@ -1,14 +1,33 @@
+美国
+韩国
+俄罗斯
+中国
+日本
+
+世界局势
+
+高市早苗
+特朗普
+泽连斯基
+普京
+
 DeepSeek
 chatgpt
-openai
 sora
+
 豆包
 文言一心
 腾讯混元
 
+ai
+!gai
+人工智能
+
+
 华为
 小米
 荣耀
+
 vivo
 oppo
 苹果
@@ -16,41 +35,20 @@ oppo
 鸿蒙
 HarmonyOS
 
-比亚迪
-
 大疆
 DJI
 
 宇树
 机器人
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-三体
-流浪地球
-刘慈欣
-郭帆
 
 京东
-刘强东
+美团
+淘宝闪购
 
 字节
 bytedance
-张一鸣
 TikTok
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
+抖音
 
 谷歌
 google
@@ -60,39 +58,16 @@ deepmind
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-美国
-日本
-韩国
-俄罗斯
-世界局势
-
-中国
-日本
-中日关系
-
-高市早苗
-特朗普
-泽连斯基
-普京
-
-芯片
-光刻机
 
 新能源
 电车
 自动驾驶
+
 特斯拉
-马斯克
 小米汽车
+比亚迪
+问界
+理想汽车
 
 佳能
 尼康
